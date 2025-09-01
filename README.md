@@ -51,5 +51,5 @@ Create a .env file locally:
 DB_HOST=localhost
 DB_PORT=5432
 DB_USER=postgres
-DB_PASS=your_local_password
+DB_PASS=your_local_password, (root)
 DB_NAME=bitespeed
